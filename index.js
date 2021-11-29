@@ -38,4 +38,4 @@ client.on("message", async message => {
 
 
 });
-client.login('ODY3MjEzNjE3MzcwNzU5MTY5.YPd1ng.Dn8tOrPyrxL9M5uODoAj9i5aaPI')
+client.login('XXXXXXXXXXXX')
